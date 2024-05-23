@@ -1,3 +1,1 @@
- Enhanced Predictive Maintenance through SMOTE Sampling and Random Forest Fusion 	 
-•	Identified stages of the water pump and estimated its lifetime.
-•	Built and evaluated Machine Learning models for forecasting pump degradation, comparing their performance for effective prediction
+ Enhanced Predictive Maintenance through SMOTE Sampling and Random Forest Fusion in which identified stages of the water pump and estimated its lifetime and built and evaluated Machine Learning models for forecasting pump degradation, comparing their performance for effective prediction
